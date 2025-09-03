@@ -32,5 +32,5 @@ Process of operations
 
 
 
-The model has been tested with new set of datas and the prediction accuracy stands to 91 percentage approximately.
+The model has been tested with new set of datas and the prediction accuracy stands to 90 percentage approximately.
 
